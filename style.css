@@ -1,0 +1,77 @@
+body
+{
+	background: url("assets/img/bg-masthead.png");
+	background-repeat: repeat;
+	background-color: #efedfb;
+	padding-bottom: 50px;
+}
+
+h1
+{
+	color: 	black;
+}
+
+.col-lg-6
+{
+	border: 0px solid white;
+}
+
+.tombol
+{
+	padding: 70px;
+}
+
+.atas
+{
+	margin-top: 20px;
+}
+
+.bawah
+{
+	margin-top: 60px;
+	padding-bottom: 50px;
+}
+
+mark
+{
+	background-color: yellow;
+}
+
+.tulisan
+{
+	font-size: 20px;
+}
+
+form
+{
+	padding: 50px;
+	background-color: white;
+}
+
+.notif
+{
+	padding: 50px;
+	background-color: white;
+	height: 100%;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 60px;
+}
+
+.tulisan2
+{
+	margin-top: 60px;
+	font-size: 20px;
+}
+
+.responsive
+{
+	max-width: 200px;
+	height: auto;
+	width: 100%;
+}
+
+.tabel
+{
+	background-color: white;
+}
